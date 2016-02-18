@@ -1,1 +1,3 @@
-# Datamining-Bus-Route
+# Datamining Bus Route 
+
+See **FinalProjectReport_Encoders.pdf** for report
